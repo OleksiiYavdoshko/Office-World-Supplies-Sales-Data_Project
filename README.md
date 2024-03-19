@@ -90,3 +90,11 @@ Overall, the purpose of this analysis was to investigate whether higher discount
     <img width="40%" src="Sum_of_Quantity_by_Product_Category.png">
     <img width="41%" src="Sum_of_Unit_Price_by_Product_Category.png">
 </p>
+
+The analysis of the provided charts reveals that the Technology category emerges as both the most selling and most profitable product category. Despite Office Supplies being the most ordered category, its comparatively lower average unit price results in smaller profits.
+<p align="center" width="100%">
+    <img width="40%" src="Sum_of_Sales_by_PSC_and_PC.png">
+    <img width="40%" src="Sum_of_Profit_by_PSC_and_PC.png">
+</p>
+
+The charts above indicate that the Telephones and Communication, along with Office Machines, emerge as the most profitable sub-categories
