@@ -110,7 +110,27 @@ The charts above indicate that the Telephones and Communication, along with Offi
 The analysis of the provided charts reveals that the Corporate customer segment emerges as both the most selling and most profitable. While the Consumer segment has the highest average unit price, its smaller quantity of orders results in comparatively lower sales and profit.
 <p align="center" width="100%">
     <img width="40%" src="Top_10_Products_by_Sales.png">
-    <img width="40%" src="Top_10_Products_by_Profit.png">
+    <img width="39%" src="Top_10_Products_by_Profit.png">
 </p>
 
 Charts above shows top products by sales and by profit.
+<p align="center" width="100%">
+    <img width="40%" src="Sum_of_Sales_by_Region.png">
+    <img width="40%" src="Sum_of_Profit_by_Region.png">
+</p>
+
+The treemaps clearly indicate that the East region leads in terms of sales, while the West region emerges as the most profitable.
+<p align="center" width="100%">
+    <img width="40%" src="Average_of_Unit_Price_by_PSC_and_PC.png">
+</p>
+
+The chart above illustrates significant variability in unit prices among different product sub-categories. Notably, Copiers and Fax and Office Machines emerge as the most expensive sub-categories, indicating a clear division between more and less expensive product categories.
+<p align="center" width="100%">
+    <img width="40%" src="Sum_of_Sales_by_Month.png">
+    <img width="40%" src="Sum_of_Profit_by_Month.png">
+</p>
+<p align="center" width="100%">
+    <img width="40%" src="Average_of_Unit_Price_by_Month.png">
+    <img width="40%" src="Sum_of_Quantity_by_Month.png">
+</p>
+
