@@ -59,5 +59,7 @@ Additional calculated columns were made:
 - **Trends or patterns in sales, profits over time (monthly, quarterly)** (This question explores temporal trends and patterns in sales and profits over time, allowing for the identification of seasonality, growth trends, or other cyclical patterns that can inform strategic decision-making and resource planning).
 
 ## Analysis
-![](Average_of_Date_difference_by_Order_Priority.png)
+<p align="center" width="100%">
+    <img width="40%" src="Average_of_Date_difference_by_Order_Priority.png">
+</p>
 The data presented in the chart indicates a notable correlation between the date difference and order priority. Specifically, orders with low priority exhibit a higher average date difference, around 4 days, whereas orders with high and critical priority show substantially lower average date differences, ranging between 1.3 to 1.4 days.
