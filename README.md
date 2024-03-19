@@ -42,19 +42,18 @@ The dataset was carefully reviewed for errors and inconsistencies to ensure data
 3. Duplicates:
 - More than one instance of the same record of data in a dataset, thus leading to incorrect calculations, results or conclusions (7 duplicates values were found in the dataset).
 
-### Details on how the analysis process was compliant with regulations and laws
-The analysis process adhered to relevant regulations and laws governing data privacy and security to protect customer information and ensure compliance with data protection policies.
-Ways in which data will be kept safe and secure:
-•	Encryption of sensitive data (Customer name, product name)
-•	Access control (Limiting who can access data and what they can do with it)
-•	Authentication (with password)
-•	Data backups (on cloud platform)
-o	Hypothesis
-A hypothesis was formulated that certain product categories or customer segments may exhibit higher profitability and popularity than others.
-•	Correlation between order priority and date difference (ship date and order date) (This question explores whether there is a relationship between the urgency of order priority and the time it takes for orders to be shipped, which can inform decision-making regarding order processing efficiency.)
-•	Correlation between ship mode and date difference (ship date and order date) (This question investigates whether the chosen shipping mode affects the time it takes for orders to be shipped, which can impact logistics and customer satisfaction.)
-•	Is there a relationship between the quantity of products ordered and the discount offered? (This question examines whether there is a correlation between the quantity of products ordered and the discount offered, which can influence purchasing behaviour and pricing strategies.)
-•	Which product sub-category, product category and customer segment are the best-selling and are most profitable (worst selling) (This question aims to identify the top-performing and underperforming product sub-categories, categories, and customer segments in terms of sales and profitability, guiding resource allocation and marketing efforts.)
-•	Which regions have the highest and lowest sales and profits? (This question analyses regional sales and profitability data to identify geographic trends and opportunities, helping prioritize markets and allocate resources effectively.)
-•	How does the unit price of products vary across different product sub-categories? (This question examines the variability in unit prices across different product sub-categories, providing insights into pricing strategies and market dynamics within specific product categories.)
-•	Trends or patterns in sales, profits over time (monthly, quarterly) (This question explores temporal trends and patterns in sales and profits over time, allowing for the identification of seasonality, growth trends, or other cyclical patterns that can inform strategic decision-making and resource planning.)
+### Additional calculations and columns
+Additional calculated columns were made:
+- Date difference (difference between Ship date and Order date);
+- Total costs ((Cost of Sales + Shipping Cost) *(1-discount));
+- Sales Revenue (Quantity ordered * Unit Price);
+- Profit (Sales Revenue - Total costs).
+
+### Hypothesis
+- Correlation between order priority and date difference (This question explores whether there is a relationship between the urgency of order priority and the time it takes for orders to be shipped, which can inform decision-making regarding order processing efficiency);
+- Correlation between ship mode and date difference (This question investigates whether the chosen shipping mode affects the time it takes for orders to be shipped, which can impact logistics and customer satisfaction);
+- Is there a relationship between the quantity of products ordered and the discount offered? (This question examines whether there is a correlation between the quantity of products ordered and the discount offered, which can influence purchasing behaviour and pricing strategies);
+- Which product sub-category, product category and customer segment are the best-selling and are most profitable (worst selling) (This question aims to identify the top-performing and underperforming product sub-categories, categories, and customer segments in terms of sales and profitability, guiding resource allocation and marketing efforts);
+- Which regions have the highest and lowest sales and profits? (This question analyses regional sales and profitability data to identify geographic trends and opportunities, helping prioritize markets and allocate resources effectively);
+- How does the unit price of products vary across different product sub-categories? (This question examines the variability in unit prices across different product sub-categories, providing insights into pricing strategies and market dynamics within specific product categories);
+- Trends or patterns in sales, profits over time (monthly, quarterly) (This question explores temporal trends and patterns in sales and profits over time, allowing for the identification of seasonality, growth trends, or other cyclical patterns that can inform strategic decision-making and resource planning).
