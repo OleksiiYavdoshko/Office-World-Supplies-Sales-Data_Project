@@ -108,3 +108,9 @@ The charts above indicate that the Telephones and Communication, along with Offi
 </p>
 
 The analysis of the provided charts reveals that the Corporate customer segment emerges as both the most selling and most profitable. While the Consumer segment has the highest average unit price, its smaller quantity of orders results in comparatively lower sales and profit.
+<p align="center" width="100%">
+    <img width="40%" src="Top_10_Products_by_Sales.png">
+    <img width="40%" src="Top_10_Products_by_Profit.png">
+</p>
+
+Charts above shows top products by sales and by profit.
