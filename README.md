@@ -134,3 +134,14 @@ The chart above illustrates significant variability in unit prices among differe
     <img width="40%" src="Sum_of_Quantity_by_Month.png">
 </p>
 
+The charts show the trends over time for sales, profit, unit price, and quantity ordered. Notably, January and March exhibit the smallest sales figures, attributed to higher unit prices and lower quantities ordered during these months. In February, a decrease in unit price, coupled with a rise in the quantity of orders, resulted in increased sales and profit. May shows the smallest average unit price and the highest quantity of orders, leading to a small increase in profit but a decline in sales.
+Furthermore, the data indicates a 17.5% growth in sales during the second quarter compared to the first quarter. However, profit experienced an 18% decline during this period.
+
+### Written insights explaining the outcome/results of each analysis and response to hypothesis
+- **Correlation between order priority and date difference**: There is a correlation between order priority and date difference, particularly noticeable in low-priority orders. However, the difference in shipping time between high, critical, and medium priority orders is not significant.
+- **Correlation between ship mode and date difference**: There is no correlation between ship mode and date difference, indicating that the chosen shipping method does not significantly impact the time it takes for orders to be shipped.
+- **Relationship between quantity of products and discount**: There is no correlation between the quantity of products ordered and the discount offered, suggesting that discount offers do not influence the quantity of products ordered.
+- **Best and worst performing product categories and customer segments**: The top-performing product category in terms of sales and profit is technology, while the underperforming category is office supplies. Similarly, the corporate customer segment performs best in both sales and profit, while the consumer segment underperforms.
+- **Regions with highest sales and profits**: The region with the highest sales is the East, whereas the region with the highest profit is the West.
+- **Variability in unit prices across product sub-categories**: The most expensive product sub-categories are copiers and fax, and office machines, indicating higher pricing for these items compared to others.
+- **Trends in sales and profits over time**: Sales show a growth of 17.5% in the 2nd quarter compared to the 1st quarter. However, there is a notable decline in profit by 18% during the same period.
