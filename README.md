@@ -155,3 +155,7 @@ Based on the analysis findings, recommendations for action include:
 - Expanding product offerings in high-demand categories to capitalize on market trends and customer preferences;
 - Implementing pricing strategies to optimize profitability while maintaining competitive pricing;
 - Investing in customer relationship management (CRM) systems to personalize marketing communications and improve customer engagement.
+
+## Dashboard
+![](Project_Office_Supply_dashboard.PNG)
+---
