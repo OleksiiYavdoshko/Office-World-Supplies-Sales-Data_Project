@@ -97,4 +97,14 @@ The analysis of the provided charts reveals that the Technology category emerges
     <img width="40%" src="Sum_of_Profit_by_PSC_and_PC.png">
 </p>
 
-The charts above indicate that the Telephones and Communication, along with Office Machines, emerge as the most profitable sub-categories
+The charts above indicate that the Telephones and Communication, along with Office Machines, emerge as the most profitable sub-categories.
+<p align="center" width="100%">
+    <img width="40%" src="Sum_of_Sales_by_Customer_Segment.png">
+    <img width="40%" src="Sum_of_Profit_by_Customer_Segment.png">
+</p>
+<p align="center" width="100%">
+    <img width="40%" src="Sum_of_Quantity_by_Customer_Segment.png">
+    <img width="40%" src="Sum_of_Unit_Price_by_Customer_Segment.png">
+</p>
+
+The analysis of the provided charts reveals that the Corporate customer segment emerges as both the most selling and most profitable. While the Consumer segment has the highest average unit price, its smaller quantity of orders results in comparatively lower sales and profit.
