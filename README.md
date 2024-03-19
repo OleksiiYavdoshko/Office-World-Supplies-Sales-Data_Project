@@ -34,11 +34,11 @@ The analysis reveals insights into product popularity, profitability, and custom
 ### Summary of errors in data
 The dataset was carefully reviewed for errors and inconsistencies to ensure data accuracy and reliability for meaningful analysis. The errors include:
 1. Structural errors:
-- Spelling errors (In ship mode there are 2 values that are actually the same (Parcel 2 Go and ParcelToGo), there is only 1 value of Parcel 2 Go, so change it to ParcelToGo);
-- Incongruent values (In Product Category there are 2 same values as well. There are Tech and Technology. There is only 1 value for Tech, so change it to Technology).
+- Spelling errors: In the 'Ship Mode' column, there are two values that are identical ('Parcel 2 Go' and 'ParcelToGo'). Since there is only one occurrence of 'Parcel 2 Go', I changed it to 'ParcelToGo';
+- Incongruent values: In the 'Product Category' column, there are two similar values ('Tech' and 'Technology'). As there is only one occurrence of 'Tech', I changed it to 'Technology'.
 2. Data types and formats:
-- Incorrect data types (In the ship date column there are 2 data types: date and text);
-- Incorrect formats (In order date column there are 2 different format of date type).
+- Incorrect data types: In the 'Ship Date' column there are 2 data types: date and text);
+- Incorrect formats: In 'Order Date' column there are 2 different format of date type.
 3. Duplicates:
 - More than one instance of the same record of data in a dataset, thus leading to incorrect calculations, results or conclusions (7 duplicates values were found in the dataset).
 
