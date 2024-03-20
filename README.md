@@ -3,6 +3,26 @@
 ![](Intro_image_Office_Supplies.jpg)
 ---
 
+## Table of Contents
+* [Introduction](#introduction)
+    * [Company background](#company-background)
+    * [Current position](#current-position)
+    * [Company objectives](#company-objectives)
+* [Executive summary](#executive-summary)
+    * [The problem](#the-problem)
+    * [The analysis's goal](#the-analysiss-goal)
+    * [The data and techniques employed](#the-data-and-techniques-employed)
+    * [Brief interpretation of results](#brief-interpretation-of-results)
+* [Main body](#main-body)
+    * [Summary of errors in data](#summary-of-errors-in-data)
+    * [Additional calculations and columns](#additional-calculations-and-columns)
+    * [Hypothesis](#hypothesis)
+* [Analysis](#analysis)
+    * [Written insights](#written-insights-explaining-the-outcomeresults-of-each-analysis-and-response-to-hypothesis)
+* [Conclusion](#conclusion)
+* [Recommendations for action](#recommendations-for-action)
+* [Dashboard](#dashboard)
+
 ## Introduction
 This is an Excel and Power BI project of an **imaginary store** called **Office World**. Data set was provided on Skills Bootcamp from We Are Group. The project is to analyse and derive insights to answer crucial questions and help the store make data-driven decision. 
 
