@@ -1,6 +1,6 @@
 # Office World Supplies Sales Data Analysis
 
-![](Intro_image_Office_Supplies.jpg)
+![](Intro_image_Office_Supplies1.jpg)
 ---
 
 ## Table of Contents
